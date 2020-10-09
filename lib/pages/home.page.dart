@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
             child: FlatButton(
               child: Icon(
                 Icons.exit_to_app,
-                color: Color(0xFFBABABA),
+                color: Colors.white,
               ),
               onPressed: () => {
               signOutGoogle(),
