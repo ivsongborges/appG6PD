@@ -1,3 +1,4 @@
+import 'package:appg6pd/pages/home.page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:appg6pd/pages/quiz.page.dart';
@@ -61,7 +62,7 @@ class FinishDialog {
             FlatButton(
               child: const Text('COMPARTILHAR'),
               onPressed: () {
-                Share.share('Quiz G6PD. Você acertou $hitNumber de 10!');
+                Share.share('Quiz G6PD. Você acertou $hitNumber de $questionNumber!');
               },
             ),
             FlatButton(
@@ -76,9 +77,10 @@ class FinishDialog {
             FlatButton(
               child: const Text('SAIR'),
               onPressed: () {
-                SystemNavigator.pop();
+                Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()),
+                );
               },
-            )
+            ),
           ],
         );
       },

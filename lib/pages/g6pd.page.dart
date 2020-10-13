@@ -23,9 +23,11 @@ class G6pdPage extends StatelessWidget {
           ListTile(
             //alignment: Alignment.center,
             contentPadding: EdgeInsets.only(top: 10),
-            title: StdTitle('teste'),
+            title: StdTitle('O que é G6PD?'),
             subtitle: StdDescription(
-                'é uma condição genética There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isnt anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.'),
+              'A deficiência de glicose-6-fosfato desidrogenase (G6PD) é uma doença hereditária que ocorre geralmente em homens. É mais comum em descendentes de africanos e mediterrâneos. Os fatores desencadeantes incluem infecções, estresse, favas, aspirina e outros medicamentos. Quando os sintomas se desenvolvem, incluem febre, urina escura, dor abdominal e nas costas, fadiga e palidez na pele. A maioria das pessoas se recupera em poucos dias sem tratamento. No entanto, os pacientes correm o risco de episódios recorrentes. Assim, é fundamental evitar os fatores desencadeantes.'
+            '\n\n Estima-se 400 milhões de pessoas com a doença no mundo e 150 mil novos casos diagnosticados por ano no Brasil. O paciente acometido apresenta uma quantidade reduzida ou não saudável da enzima licose-6-fosfato desidrogenase, condição que provoca o rompimento dos glóbulos vermelhos em resposta a certos alimentos, medicamentos, infecções ou outros fatores de estresse. \n\n O AppG6PD é um aplicativo de caráter educativo e informativo relacionado a doença hereditária: Deficiência de G6PD (enzima glicose-6-fosfato desidrogenase).'
+            ),
           ),
         ]),
       ),
