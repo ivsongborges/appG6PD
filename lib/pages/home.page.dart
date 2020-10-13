@@ -40,7 +40,6 @@ class HomePage extends StatelessWidget {
         ListTile(
             leading: Icon(Icons.class_),
             title: Text('O que é Deficiência de G6PD?'),
-            subtitle: Text('é uma condição genética...'),
             onTap: () {
               Navigator.push(
                   context,

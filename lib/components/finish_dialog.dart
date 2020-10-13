@@ -62,7 +62,7 @@ class FinishDialog {
             FlatButton(
               child: const Text('COMPARTILHAR'),
               onPressed: () {
-                Share.share('Quiz G6PD. Você acertou $hitNumber de $questionNumber!');
+                Share.share('Quiz G6PD. Acertei $hitNumber de $questionNumber! e você!?\n\n Procure por appG6PD da PlayStore');
               },
             ),
             FlatButton(
