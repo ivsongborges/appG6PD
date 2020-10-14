@@ -30,7 +30,10 @@ Na parte superior o usuário pode optar por sair do app atraves do icone <-, ou 
 
 ## Telas(Conteúdos)
 Telas apresentadas conforme o usuário navega utilizando os botões da homepage
-![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/g6pdpage.jpeg?raw=true) ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/restritospage.jpeg?raw=true) ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/examespage.jpeg?raw=true) ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/hemolisepage.jpeg?raw=true) ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/quiz.jpeg?raw=true)
+
+![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/g6pdpage.jpeg?raw=true) ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/restritospage.jpeg?raw=true) 
+![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/examespage.jpeg?raw=true) ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/hemolisepage.jpeg?raw=true) 
+![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/quiz.jpeg?raw=true)
 
 ## Telas do QUIZ
 Telas referentes ao quiz. Durante a realização do quiz o usuário visualiza na parte superior(appbar) a quantidade de questões respondidas/quantidade total de questões. Na parte de baixo da tela o usuário acompanha os acertos e erros representados por ícones.
