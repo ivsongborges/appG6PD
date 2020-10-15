@@ -1,8 +1,8 @@
 # appG6PD
 Aplicativo criado sob a orientação do Professor Gilberto Cysneiros(PPGIA/UFRPE), na disciplina de Fundamentos de Programação Aplicada do Programa de Pós Graduação em Informática Aplicada/UFRPE
 
-O AppG6PD é um aplicativo de caráter educativo e informativo relacionado a doença hereditária: Deficiência de G6PD (enzima glicose-6-
-fosfato desidrogenase). Estima-se 400 milhões de pessoas com a doença no mundo e 150 mil novos casos diagnosticados por ano no Brasil. O paciente
+O AppG6PD é um aplicativo de caráter educativo e informativo relacionado a deficiência hereditária: Deficiência de G6PD (enzima glicose-6-
+fosfato desidrogenase). Estima-se 400 milhões de pessoas com a deficiência no mundo e 150 mil novos casos diagnosticados por ano no Brasil. O paciente
 acometido apresenta uma quantidade reduzida ou não saudável da enzima glicose-6-fosfato desidrogenase, condição que provoca o rompimento dos
 glóbulos vermelhos em resposta a certos alimentos, medicamentos, infecções ou outros fatores de estresse. O aplicativo a ser desenvolvido visa divulgar
 informações e instruir os portadores e/ou seus responsáveis, bem como profissionais de saúde e educação que manifestem interesse nessa patologia.
@@ -48,3 +48,7 @@ A medida que responde, o usuário, terá um feedback imediato correspondente a q
 Ao final do Quiz o usuário visualiza a quantidade de acertos. Podendo compartilhar por meio de outros aplicativos, jogar novamente ou sair do quiz.
 
 ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/finalquiz.jpeg?raw=true)
+
+## Navegabilidade do appG6PD
+
+![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/navegabilidade.jpeg?raw=true)
