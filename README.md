@@ -13,7 +13,7 @@ Visando garantir a usabilidade e a satisfação do usuário, as informações se
 
 ## Logo
 
-![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/assets/logo.jpg?raw=true)
+<img src="https://github.com/ivsongborges/app_G6PD/blob/master/assets/logo.jpg" width="250">
  
 ## SplashScreen
 É uma tela inicial enquanto o aplicativo está sendo iniciado.
