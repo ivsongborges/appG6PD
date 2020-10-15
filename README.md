@@ -11,6 +11,10 @@ O login no aplicativo é realizado com conta do Google(Sign In Google). O app co
 
 Visando garantir a usabilidade e a satisfação do usuário, as informações serão disponibilizadas de forma intuitiva e em linguagem acessível.
 
+## Logo
+
+![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/assets/logo.jpg?raw=true)
+ 
 ## SplashScreen
 É uma tela inicial enquanto o aplicativo está sendo iniciado.
 Nessa tela temos o logo do app e uma animação.
