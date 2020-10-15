@@ -4,7 +4,7 @@ Aplicativo criado sob a orientação do Professor Gilberto Cysneiros(PPGIA/UFRPE
 O AppG6PD é um aplicativo de caráter educativo e informativo relacionado a deficiência hereditária: Deficiência de G6PD (enzima glicose-6-
 fosfato desidrogenase). Estima-se 400 milhões de pessoas com a deficiência no mundo e 150 mil novos casos diagnosticados por ano no Brasil. O paciente
 acometido apresenta uma quantidade reduzida ou não saudável da enzima glicose-6-fosfato desidrogenase, condição que provoca o rompimento dos
-glóbulos vermelhos em resposta a certos alimentos, medicamentos, infecções ou outros fatores de estresse. O aplicativo a ser desenvolvido visa divulgar
+glóbulos vermelhos em resposta a certos alimentos, medicamentos, infecções ou outros fatores de estresse. O aplicativo desenvolvido visa divulgar
 informações e instruir os portadores e/ou seus responsáveis, bem como profissionais de saúde e educação que manifestem interesse nessa patologia.
 
 O login no aplicativo é realizado com conta do Google(Sign In Google). O app contém informações básicas sobre a doença, lista de alimentos e substâncias restritas, exames importantes para o diagnóstico e acompanhamento da saúde do paciente, lista de especialidades médicas indicadas ao acompanhamento, sintomas relacionados a crise hemolítica e um Quiz para que o usuário possa verificar os conhecimentos sobre a doença.
