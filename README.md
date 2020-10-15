@@ -49,8 +49,7 @@ Ao final do Quiz o usuário visualiza a quantidade de acertos. Podendo compartil
 
 ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/finalquiz.jpeg?raw=true)
 
-## Navegabilidade do appG6PD
+## Mapa de Navegabilidade do appG6PD
 
 ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/navegabilidade.jpg?raw=true)
 
-<img src="https://github.com/ivsongborges/app_G6PD/blob/master/img/navegabilidade.jpg" width="777">
