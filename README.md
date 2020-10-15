@@ -53,4 +53,4 @@ Ao final do Quiz o usuário visualiza a quantidade de acertos. Podendo compartil
 
 ![alt text](https://github.com/ivsongborges/app_G6PD/blob/master/img/navegabilidade.jpeg?raw=true)
 
-<img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250"> | <img src="https://mk0jobadderjftub56m0.kinstacdn.com/wp-content/uploads/stackoverflow.com-300.jpg" width="250">
+<img src="https://github.com/ivsongborges/app_G6PD/blob/master/img/navegabilidade.jpeg" width="777">
